@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "sink.log.prefix",
+    "type": "java.lang.String",
+    "description": "Prefix value that will be printout before the payload"
+  },
+  {
+    "name": "sink.log.postfix",
+    "type": "java.lang.String",
+    "description": "Postfix value that will be printout after the payload"
+  }
+]}
